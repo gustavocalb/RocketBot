@@ -1,0 +1,4 @@
+{
+    "token": "token do seu bot aqui",
+    "mongoDB": "link de conexão com o mongoose aqui"
+}
